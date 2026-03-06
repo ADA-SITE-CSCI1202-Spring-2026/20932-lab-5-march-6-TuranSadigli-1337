@@ -1,6 +1,6 @@
 public class MovableTest {
 
-    // Method to move all Movable objects in an array (part f and g)
+    // Method to move all Movable objects in an array (part f and g) (needed for the test)
     public static void moveAll(Movable[] movables, String direction) {
         System.out.println("Moving all " + direction + ":");
         for (int i = 0; i < movables.length; i++) {
